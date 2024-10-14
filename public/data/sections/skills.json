@@ -1,0 +1,267 @@
+{
+  "locales": {
+    "en": {
+      "title": "<span class='text-primary'>Skill</span> Set",
+      "description": "Exploring the diverse range of skills I've acquired and developed:"
+    }
+  },
+
+  "subcategories": [
+    {
+      "id": "abilities",
+      "type": "list",
+      "progress": null,
+      "faIcon": "fa-solid fa-square",
+      "locales": {
+        "en": { "title": null }
+      }
+    },
+
+    {
+      "id": "programming",
+      "type": "grid",
+      "progress": "number",
+      "faIcon": "fa fa-code",
+      "locales": {
+        "en": { "title": "Programming" }
+      }
+    },
+
+    {
+      "id": "languages",
+      "type": "list",
+      "progress": {
+        "0": "beginner",
+        "20": "rookie",
+        "40": "intermediate",
+        "60": "advanced",
+        "80": "fluent",
+        "100": "native"
+      },
+
+      "faIcon": "fa fa-language",
+      "locales": {
+        "en": { "title": "Languages" }
+      }
+    },
+    {
+      "id": "extra",
+      "type": "grid",
+      "progress": null,
+      "faIcon": "fa fa-marker",
+      "locales": {
+        "en": { "title": "Bonus Skills" }
+      }
+    }
+  ],
+
+  "items": {
+    "abilities": [
+      {
+        "imageIconUrl": null,
+        "faIcon": "fas fa-paint-roller",
+        "value": null,
+        "locales": {
+          "en": {
+            "title": "Design Principles",
+            "description": "Proficient in applying core design principles to create seamless and user-friendly software solutions. Experienced in leveraging principles of software engineering, algorithm design, and system architecture to develop robust and efficient applications. Adept at balancing functionality, performance, and user experience to deliver innovative and visually compelling software designs that meet both technical and user requirements."
+          }
+        }
+      },
+      {
+        "imageIconUrl": null,
+        "faIcon": "fas fa-mobile-alt",
+        "value": null,
+        "locales": {
+          "en": {
+            "title": "Responsive Layouts",
+            "description":  "Skilled in developing responsive layouts that dynamically adapt to various devices, guaranteeing an exceptional user experience. Expertise includes creating designs that fluidly adjust design elements and content to different screen sizes, ensuring a consistent and visually appealing presentation across a wide range of platforms and devices."
+          }
+        }
+      },
+
+      {
+        "imageIconUrl": null,
+        "faIcon": "fas fa-check-double",
+        "value": null,
+        "locales": {
+          "en": {
+            "title": "Usability Testing",
+            "description": "Dedicated to elevating user experiences through thorough usability testing, guaranteeing peak functionality and user satisfaction."
+          }
+        }
+      },
+      {
+        "imageIconUrl": null,
+        "faIcon": "fas fa-expand-arrows-alt",
+        "value": null,
+        "locales": {
+          "en": {
+            "title": "Interaction Design",
+            "description": "Skilled in crafting intuitive and seamless interactions to deliver user-friendly experiences, adeptly harmonizing aesthetics with usability."
+          }
+        }
+      }
+    ],
+
+    "programming": [
+      {
+        "imageIconUrl": null,
+        "faIcon": "fab fa-html5",
+        "value": 95,
+        "locales": {
+          "en": { "title": "HTML 5", "description": "Experience Time: 5 years" }
+        }
+      },
+      {
+        "imageIconUrl": null,
+        "faIcon": "fab fa-css3-alt",
+        "value": 90,
+        "locales": {
+          "en": { "title": "CSS 3", "description": "Experience Time: 3 years" }
+        }
+      },
+      
+      {
+        "imageIconUrl": null,
+        "faIcon": "fab fa-js-square",
+        "value": 80,
+        "locales": {
+          "en": {
+            "title": "JavaScript",
+            "description": "Experience Time: 3 years"
+          }
+        }
+      },
+
+      {
+        "imageIconUrl": null,
+        "faIcon": "fab fa-vuejs",
+        "value": 80,
+        "locales": {
+          "en": { "title": "Vue 3", "description": "Experience Time: 2 years" }
+        }
+      },
+      {
+        "imageIconUrl": null,
+        "faIcon": "fab fa-react",
+        "value": 60,
+        "locales": {
+          "en": {
+            "title": "React",
+            "description": "Experience Time: 1 year"
+          }
+        }
+      },
+
+      {
+        "imageIconUrl": null,
+        "faIcon": "fab fa-python",
+        "value": 85,
+        "locales": {
+          "en": {
+            "title": "Python",
+            "description": "Experience Time: 2 year"
+          }
+        }
+      },
+      {
+        "imageIconUrl": null,
+        "faIcon": "fab fa-git",
+        "value": 70,
+        "locales": {
+          "en": {
+            "title": "Git",
+            "description": "Experience Time: 2 year"
+          }
+        }
+      },
+
+      {
+        "imageIconUrl": null,
+        "faIcon": "fab fa-linux",
+        "value": 60,
+        "locales": {
+          "en": {
+            "title": "Linux Adminstrator",
+            "description": "Experience Time: 1 year"
+          }
+        }
+      }
+    ],
+
+    "languages": [
+      {
+        "imageIconUrl": "images/flags/en.png",
+        "faIcon": null,
+        "value": 50,
+        "locales": {
+          "en": {
+            "title": "English",
+            "description": "Native speaker with excellent communication and writing skills; learning and improving."
+          }
+        }
+      },
+
+      {
+        "imageIconUrl": "images/flags/Hindi.jpg",
+        "faIcon": null,
+        "value": 100,
+        "locales": {
+          "en": {
+            "title": "Hindi",
+            "description": "Full Understanding of Hindi Language."
+          }
+        }
+      }
+    ],
+
+    "extra": [
+      {
+        "imageIconUrl": null,
+        "faIcon": null,
+        "value": null,
+        "locales": {
+          "en": {
+            "title": "User Interface (UI) Design",
+            "description": "Able to design intuitive and visually appealing user interfaces for seamless user interactions."
+          }
+        }
+      },
+      {
+        "imageIconUrl": null,
+        "faIcon": null,
+        "value": null,
+        "locales": {
+          "en": {
+            "title": "Front-End Development",
+            "description": "Able to code in VueJS, React JS, and TypeScript."
+          }
+        }
+      },
+      {
+        "imageIconUrl": null,
+        "faIcon": null,
+        "value": null,
+        "locales": {
+          "en": {
+            "title": "Back-End Development",
+            "description": "Able to work with python django framemwork for backend API's"
+          }
+        }
+      },
+      {
+        "_comment": "No need for now",
+        "imageIconUrl": null,
+        "faIcon": null,
+        "value": null,
+        "locales": {
+          "en": {
+            "title": "DevOps Domain",
+            "description": "Skilled in various DevOps tools like Kubernetes, Ansible, Minio(Object Storage), Gitlab(CI/CD)"
+          }
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "locales": {
+    "en": {
+      "title": "Career <span class='text-primary'>Achievements</span>",
+      "description": "My career path as a professional with expertise in Vue.js, Python, Django, Kubernetes (K8s), Rancher, and Linux OS has been characterized by a steadfast commitment to continuous learning and skill refinement. I actively participate in relevant tech events and have garnered recognition through the acquisition of notable certifications and awards:"
+    }
+  },
+
+  "subcategories": [
+    {
+      "id": "awards",
+      "faIcon": "fa-solid fa-trophy",
+      "locales": {
+        "en": { "title": "Awards", "buttonLabel": "More Info" }
+      }
+    },
+
+    {
+      "id": "certifications",
+      "faIcon": "fa-solid fa-award",
+      "locales": {
+        "en": {
+          "title": "Certifications",
+          "buttonLabel": "View Certification"
+        }
+      }
+    }
+  ],
+
+  "items": {
+    "awards": [
+      {
+        "id": "graduation_project",
+        "place": "@link{places.harvard}",
+        "date": "2022/08",
+        "href": null,
+        "locales": {
+          "en": {
+            "title": "Graduation Project",
+            "description": "Create Automation CI/CD Pipeline Using Jenkins, Ansible, Apache Webserver."
+          }
+        }
+      },
+
+      {
+        "id": "alumni_hackaton",
+        "place": "@link{places.harvard}",
+        "date": "2021/09",
+        "href": null,
+        "locales": {
+          "en": {
+            "title": "Graduation Project",
+            "description": "E-Commerce website using HTML5, CSS3 & javascript"
+          }
+        }
+      },
+
+      {
+        "id": "alumni_hackaton",
+        "place": "@link{places.harvard}",
+        "date": "2023/09",
+        "href": null,
+        "locales": {
+          "en": {
+            "title": "Post Graduations Project",
+            "description": "Social Media Web Applications Like Twitter Clone."
+          }
+        }
+      },
+
+      {
+        "id": "alumni_hackaton",
+        "place": "@link{places.coursera}",
+        "date": "2023/09",
+        "href": null,
+        "locales": {
+          "en": {
+            "title": "Work Experience Project",
+            "description": "Database as Service Platform. Provides Enterprise level Postgres HA Database. "
+          }
+        }
+      },
+      {
+        "id": "alumni_hackaton",
+        "place": "@link{places.coursera}",
+        "date": "2023/09",
+        "href": null,
+        "locales": {
+          "en": {
+            "title": "Work Experience Project",
+            "description": "Security as Service Platform. Provides Enterprise Level Security Product using ELK Stack. "
+          }
+        }
+      }
+
+    ],
+
+    "certifications": [
+      {
+        "id": "google_cert",
+        "place": "@link{places.RedHat}",
+        "date": "2023/01",
+        "href": "https://drive.google.com/file/d/13MQSoJPNGcvE0XespjmUSl70UnBY0btJ/view?usp=drivesdk",
+        "locales": {
+          "en": {
+            "title": "Diploma in Red Hat Delivery Specialist - Automation",
+            "description": "Completed Diploma from RedHat Partner Portal; acquired practical skills."
+          }
+        }
+      },
+
+      {
+        "id": "ui_nanodegree",
+        "place": "@link{places.RedHat}",
+        "date": "2022/12",
+        "href": "https://drive.google.com/file/d/13JC1xJeWQrU5xcA2AaUYAh1nIogHBno-/view?usp=drivesdk",
+        "locales": {
+          "en": {
+            "title": "Diploma in Red Hat Delivery Specialist - Container Platfrom Deployment",
+            "description": "Completed Diploma from RedHat Partner Portal; acquired practical skills."
+          }
+        }
+      },
+
+      {
+        "id": "material_cert",
+        "place": "@link{places.Goggle Skill}",
+        "date": "2022/11",
+        "href": "https://www.cloudskillsboost.google/public_profiles/bf2f3c81-a4f6-4222-b9ff-ca89b9e26574/badges/2858132?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share",
+        "locales": {
+          "en": {
+            "title": "Google Cloud Computing Foundations with Kubernetes",
+            "description": "Earned Kubernetes Cloud Computing Fundations certification; demonstrated proficiency in containerise environments."
+          }
+        }
+      },
+      {
+        "id": "material_cert",
+        "place": "@link{places.aws}",
+        "date": "2022/11",
+        "href": "https://drive.google.com/file/d/13EznEC2XKEQVGWhbaxG_XR7eAvP9wa32/view?usp=drivesdk",
+        "locales": {
+          "en": {
+            "title": "AWS Solution Architecture ",
+            "description": "Earned AWS Solution Architecture from Forage."
+          }
+        }
+      }
+    ]
+  }
+}

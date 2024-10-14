@@ -1,0 +1,71 @@
+{
+    "locales": {
+        "en": {
+            "title": "My <span class='text-primary'>Portfolio</span>",
+            "description": "Explore a selection of my recent projects and creative works."
+        }
+    },
+
+    "subcategories": [
+       
+        {
+            "id": "utilities",
+            "locales": {
+                "en": {"title": "Data & Software Solutions"}
+            }
+        },
+        {
+            "id": "social",
+            "locales": {
+                "en": {"title": "Social"}
+            }
+        }
+    ],
+
+    "items": {
+
+        "utilities": [
+            {
+                "id": "smartcash",
+                "title": "BitBlast",
+                "logoUrl": "images/portfolio/project-logo-1.png",
+                
+                "locales": {
+                    "en": {
+                        "description": "<b>BitBlast</b> is the database as a service products provides enterprise level data solutions.",
+                        "tags": ["Database", "Backups", "Monitoring", "Logging"]
+                    }
+                }
+            },
+
+            {
+                "id": "snappy",
+                "title": "SOC Platform",
+                "logoUrl": "images/portfolio/project-logo-2.png",
+                "locales": {
+                    "en": {
+                        "description": "<b>SOC Platform</b> is Security as a Service Products that will protect your servers from the unkown attacks.",
+                        "tags": ["Security", "Automations", "Monitoring"]
+                    }
+                }
+            }
+
+        ],
+
+        "social": [
+            {
+                "id": "findagoalie",
+                "title": "Twiddle",
+                "logoUrl": "images/portfolio/project-logo-4.png",
+
+                "locales": {
+                    "en": {
+                        "description": "<b>Twiddle</b> is the social media web applications, where user can share there thoughts freely of mind!. This Application Prevent Profanity Languages to be Post",
+                        "tags": ["Web App", "Messaging", "Post", "Comments"]
+                    }
+                }
+            }
+
+        ]
+    }
+}

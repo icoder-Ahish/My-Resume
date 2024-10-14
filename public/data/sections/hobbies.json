@@ -1,0 +1,158 @@
+{
+    "locales": {
+        "en": {
+            "title": "<span class='text-primary'>Hobbies</span> & Interests",
+            "description": "This is pretty much how I spend my free time:"
+        }
+    },
+
+    "subcategories": [
+        {
+            "id": "activities",
+            "type": "pie",
+            "progress": "number",
+            "faIcon": "fa-solid fa-clock",
+            "locales": {
+                "en": {"title": null}
+            }
+        },
+
+        {
+            "id": "interests",
+            "type": "list",
+            "progress": null,
+            "faIcon": "fa fa-book-open-reader",
+            "locales": {
+                "en": {"title": "Interests"}
+            }
+        }
+    ],
+
+    "items": {
+        "activities": [
+            {
+                "imageIconUrl": null,
+                "faIcon": "fas fa-users",
+                "value": 15,
+                "locales": {
+                    "en": {"title": "Family & Friends", "description": "Time spent with cherished loved ones, creating lifelong memories."}
+                }
+            },
+
+            {
+                "imageIconUrl": null,
+                "faIcon": "fas fa-tasks",
+                "value": 26,
+                "locales": {
+                    "en": {"title": "My Projects", "description": "Pursuing my creative endeavors, transforming ideas into reality."}
+                }
+            },
+
+            {
+                "imageIconUrl": null,
+                "faIcon": "fas fa-couch",
+                "value": 11,
+                "locales": {
+                    "en": {"title": "Relaxing", "description": "Indulging in tranquility, unwinding the stresses of life."}
+                }
+            },
+
+            {
+                "imageIconUrl": null,
+                "faIcon": "fas fa-book",
+                "value": 9,
+                "locales": {
+                    "en": {"title": "Studying", "description": "Embarking on a continuous journey of learning and self-improvement."}
+                }
+            },
+
+            {
+                "imageIconUrl": null,
+                "faIcon": "fas fa-dumbbell",
+                "value": 17,
+                "locales": {
+                    "en": {"title": "Exercise", "description": "Dedicating time to physical well-being, nurturing a healthy lifestyle."}
+                }
+            },
+
+            {
+                "imageIconUrl": null,
+                "faIcon": "fas fa-utensils",
+                "value": 19,
+                "locales": {
+                    "en": {"title": "Cooking", "description": "Creating culinary masterpieces, infusing flavors into every dish."}
+                }
+            },
+
+            {
+                "imageIconUrl": null,
+                "faIcon": "fas fa-map",
+                "value": 4,
+                "locales": {
+                    "en": {"title": "Exploring", "description": "Venturing into new realms, seeking the thrill of uncharted discoveries."}
+                }
+            }
+        ],
+
+        "interests": [
+            {
+                "imageIconUrl": null,
+                "faIcon": "fas fa-paint-brush",
+                "value": null,
+                "locales": {
+                    "en": {
+                        "title": "User Experience Design",
+                        "description": "Proficient in crafting user-centric digital experiences. Adept at making technology intuitive and accessible, enhancing user satisfaction."
+                    }
+                }
+            },
+
+            {
+                "imageIconUrl": null,
+                "faIcon": "fas fa-code",
+                "value": null,
+                "locales": {
+                    "en": {"title": "Programming", "description": "Exploring code, algorithms, and building software solutions for real-world challenges."}
+                }
+            },
+
+            {
+                "imageIconUrl": null,
+                "faIcon": "fas fa-music",
+                "value": null,
+                "locales": {
+                    "en": {"title": "Music", "description": "Playing instruments, composing, and embracing the harmony of diverse musical genres."}
+                }
+            },
+
+            {
+                "imageIconUrl": null,
+                "faIcon": "fas fa-users",
+                "value": null,
+                "locales": {
+                    "en": {"title": "User Research", "description": "Delving into user behavior and insights to shape effective design strategies."}
+                }
+            },
+
+            {
+                "imageIconUrl": null,
+                "faIcon": "fas fa-desktop",
+                "value": null,
+                "locales": {
+                    "en": {"title": "Front-End Development", "description": "Crafting interactive web interfaces using modern technologies for seamless user experiences."}
+                }
+            },
+
+            {
+                "imageIconUrl": null,
+                "faIcon": "fas fa-desktop",
+                "value": null,
+                "locales": {
+                    "en": {"title": "Back-End Development ", "description": "Handling Back-End API's."}
+                 
+                }
+            }
+        ]
+
+    }
+}

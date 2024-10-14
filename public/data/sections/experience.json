@@ -1,0 +1,48 @@
+{
+    "locales": {
+        "en": {
+            "title": "<span class='text-primary'>Professional</span> Experience",
+            "description": "A look into my work experience and career journey."
+        }
+    },
+
+    "items": [
+        {
+            "id": "experience_item_1",
+            "place": "@link{places.adobe}",
+            "period": ["2015/01", "2017/12"],
+            "locales": {
+                "en": {
+                    "title": "Web Developer",
+                    "description": "Contributed to designing intuitive and user-friendly web application interfaces, creating engaging and seamless user experiences. Collaborated closely with cross-functional teams and stakeholders to ensure designs aligned with business goals and user needs."
+                }
+            }
+        },
+
+        {
+            "id": "experience_item_2",
+            "place": "@link{places.apple}",
+            "period": ["2018/01", "2020/08"],
+            "locales": {
+                "en": {
+                    "title": "RedHat- Linux Administrator",
+                    "description": "Led design projects, conducted comprehensive user research, and utilized data-driven insights to enhance user experiences. Managed design teams, fostering creativity and innovation while implementing design best practices to deliver successful outcomes for various digital products."
+                }
+            }
+        },
+
+        
+
+        {
+            "id": "experience_item_4",
+            "place": "@link{places.coursera}",
+            "period": ["2020/09", "now"],
+            "locales": {
+                "en": {
+                    "title": "Software Engineer",
+                    "description": "Leveraged my expertise in UX design to educate and inspire students in the art of user-centered design principles. Conducted user studies, analyzed data, and guided students in applying theoretical knowledge to practical projects, empowering the next generation of UX designers."
+                }
+            }
+        }
+    ]
+}
