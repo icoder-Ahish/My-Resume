@@ -40,12 +40,12 @@
 
             {
                 "id": "snappy",
-                "title": "SOC Platform",
+                "title": "Observability Platform",
                 "logoUrl": "images/portfolio/project-logo-2.png",
                 "locales": {
                     "en": {
-                        "description": "<b>SOC Platform</b> is Security as a Service Products that will protect your servers from the unkown attacks.",
-                        "tags": ["Security", "Automations", "Monitoring"]
+                        "description": "<b>Observability Platform</b> is a platform that helps you monitor and analyze your infrastructure and applications to identify and resolve issues.",
+                        "tags": ["Automations", "Monitoring","Alert"]
                     }
                 }
             }

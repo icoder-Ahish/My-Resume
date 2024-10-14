@@ -4,7 +4,7 @@
  */
 export function useConstants() {
     /** @const **/
-    const BASE_PATH = 'https://670bfb6e6e56499c20af9b8f--spiffy-ganache-086086.netlify.app/'
+    const BASE_PATH = import.meta.env.BASE_URL
 
     /** @const **/
     const BOOTSTRAP_BREAKPOINTS = {
