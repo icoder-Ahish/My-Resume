@@ -10,7 +10,7 @@
         {
             "id": "experience_item_1",
             "place": "@link{places.adobe}",
-            "period": ["2015/01", "2017/12"],
+            "period": ["2021/01", "2021/03"],
             "locales": {
                 "en": {
                     "title": "Web Developer",
@@ -22,7 +22,7 @@
         {
             "id": "experience_item_2",
             "place": "@link{places.apple}",
-            "period": ["2018/01", "2020/08"],
+            "period": ["2022/01", "2022/07"],
             "locales": {
                 "en": {
                     "title": "RedHat- Linux Administrator",
@@ -36,7 +36,7 @@
         {
             "id": "experience_item_4",
             "place": "@link{places.coursera}",
-            "period": ["2020/09", "now"],
+            "period": ["2022/05", "now"],
             "locales": {
                 "en": {
                     "title": "Software Engineer",
